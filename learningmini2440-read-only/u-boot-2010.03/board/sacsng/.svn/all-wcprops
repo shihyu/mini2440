@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng/flash.c
+END
+clkinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng/clkinit.c
+END
+sacsng.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng/sacsng.c
+END
+ioconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng/ioconfig.h
+END
+clkinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sacsng/clkinit.h
+END

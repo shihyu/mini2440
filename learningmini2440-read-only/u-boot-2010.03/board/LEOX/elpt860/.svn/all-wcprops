@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860
+END
+README.LEOX
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860/README.LEOX
+END
+elpt860.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860/elpt860.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/LEOX/elpt860/flash.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/etin/debris
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/etin/debris/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/etin/debris/flash.c
+END
+speed.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/etin/debris/speed.h
+END
+phantom.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/etin/debris/phantom.c
+END
+debris.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/etin/debris/debris.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/etin/debris/config.mk
+END

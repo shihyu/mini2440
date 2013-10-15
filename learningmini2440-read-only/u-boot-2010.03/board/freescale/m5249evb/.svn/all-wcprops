@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5249evb
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5249evb/Makefile
+END
+m5249evb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5249evb/m5249evb.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5249evb/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5249evb/config.mk
+END

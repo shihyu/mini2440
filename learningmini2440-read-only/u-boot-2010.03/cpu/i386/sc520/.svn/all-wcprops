@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/i386/sc520
+END
+sc520_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/i386/sc520/sc520_pci.c
+END
+sc520_ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/i386/sc520/sc520_ssi.c
+END
+sc520.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/i386/sc520/sc520.c
+END
+sc520_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/i386/sc520/sc520_asm.S
+END
+sc520_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/i386/sc520/sc520_timer.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/i386/sc520/Makefile
+END

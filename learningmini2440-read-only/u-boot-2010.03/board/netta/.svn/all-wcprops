@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/u-boot.lds
+END
+dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/dsp.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/u-boot.lds.debug
+END
+netta.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/netta.c
+END
+pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/pcmcia.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/flash.c
+END
+codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/netta/codec.c
+END

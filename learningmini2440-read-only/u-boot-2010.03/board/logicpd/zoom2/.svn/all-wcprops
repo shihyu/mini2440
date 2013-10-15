@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/led.c
+END
+zoom2_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/zoom2_serial.c
+END
+zoom2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/zoom2.c
+END
+zoom2_serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/zoom2_serial.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/config.mk
+END
+zoom2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/zoom2.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/Makefile
+END
+debug_board.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/logicpd/zoom2/debug_board.c
+END

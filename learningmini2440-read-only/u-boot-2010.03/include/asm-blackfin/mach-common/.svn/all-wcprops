@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common
+END
+ADSP-EDN-core_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/ADSP-EDN-core_def.h
+END
+ADSP-EDN-DUAL-CORE-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/ADSP-EDN-DUAL-CORE-extended_def.h
+END
+ADSP-EDN-core_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/ADSP-EDN-core_cdef.h
+END
+ADSP-EDN-DUAL-CORE-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/ADSP-EDN-DUAL-CORE-extended_cdef.h
+END
+ADSP-EDN-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/ADSP-EDN-extended_def.h
+END
+ADSP-EDN-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/ADSP-EDN-extended_cdef.h
+END

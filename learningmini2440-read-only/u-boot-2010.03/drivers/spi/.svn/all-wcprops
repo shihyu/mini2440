@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi
+END
+cf_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/cf_spi.c
+END
+atmel_dataflash_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/atmel_dataflash_spi.c
+END
+kirkwood_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/kirkwood_spi.c
+END
+soft_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/soft_spi.c
+END
+davinci_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/davinci_spi.c
+END
+bfin_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/bfin_spi.c
+END
+mpc8xxx_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/mpc8xxx_spi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/Makefile
+END
+atmel_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/atmel_spi.c
+END
+davinci_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/davinci_spi.h
+END
+mpc52xx_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/mpc52xx_spi.c
+END
+atmel_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/atmel_spi.h
+END
+mxc_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/spi/mxc_spi.c
+END

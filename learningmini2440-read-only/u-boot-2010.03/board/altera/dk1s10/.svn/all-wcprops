@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10
+END
+dk1s10.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10/dk1s10.c
+END
+vectors.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10/vectors.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10/config.mk
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10/misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/altera/dk1s10/flash.c
+END

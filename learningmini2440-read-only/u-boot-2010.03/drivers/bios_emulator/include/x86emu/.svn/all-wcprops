@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu
+END
+regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu/regs.h
+END
+ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu/ops.h
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu/decode.h
+END
+x86emui.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu/x86emui.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu/debug.h
+END
+prim_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu/prim_asm.h
+END
+prim_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu/prim_ops.h
+END

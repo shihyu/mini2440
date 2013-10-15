@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet/u-boot.lds
+END
+fpgadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet/fpgadata.c
+END
+sixnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet/sixnet.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet/flash.c
+END
+sixnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sixnet/sixnet.h
+END

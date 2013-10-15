@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk
+END
+sc520_spunk_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/sc520_spunk_pci.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/config.mk
+END
+sc520_spunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/sc520_spunk.c
+END
+sc520_spunk_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/sc520_spunk_asm.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/flash.c
+END
+sc520_spunk_asm16.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/sc520_spunk_asm16.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_spunk/u-boot.lds
+END

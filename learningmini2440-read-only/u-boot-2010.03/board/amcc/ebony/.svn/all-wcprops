@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/amcc/ebony
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/amcc/ebony/init.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/amcc/ebony/config.mk
+END
+ebony.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/amcc/ebony/ebony.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/amcc/ebony/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/amcc/ebony/flash.c
+END

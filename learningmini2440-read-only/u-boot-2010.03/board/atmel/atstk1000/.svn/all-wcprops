@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/atstk1000
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/atstk1000/u-boot.lds
+END
+atstk1000.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/atstk1000/atstk1000.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/atstk1000/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/atstk1000/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/atstk1000/flash.c
+END

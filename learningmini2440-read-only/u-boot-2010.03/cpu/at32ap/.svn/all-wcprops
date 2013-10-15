@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/Makefile
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/start.S
+END
+pio2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/pio2.h
+END
+exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/exception.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/interrupts.c
+END
+hsdramc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/hsdramc.c
+END
+hsmc3.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/hsmc3.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/cache.c
+END
+portmux-pio.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/portmux-pio.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/cpu.c
+END
+hsdramc1.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/hsdramc1.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/config.mk
+END
+portmux-gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/at32ap/portmux-gpio.c
+END

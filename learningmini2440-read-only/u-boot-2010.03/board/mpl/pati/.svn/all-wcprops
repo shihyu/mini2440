@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati
+END
+pati.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati/pati.h
+END
+pci_eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati/pci_eeprom.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati/config.mk
+END
+plx9056.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati/plx9056.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati/Makefile
+END
+pati.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati/pati.c
+END
+cmd_pati.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/mpl/pati/cmd_pati.c
+END

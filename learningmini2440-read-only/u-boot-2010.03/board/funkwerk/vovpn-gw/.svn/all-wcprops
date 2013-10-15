@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/funkwerk/vovpn-gw
+END
+m88e6060.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/funkwerk/vovpn-gw/m88e6060.h
+END
+vovpn-gw.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/funkwerk/vovpn-gw/vovpn-gw.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/funkwerk/vovpn-gw/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/funkwerk/vovpn-gw/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/funkwerk/vovpn-gw/flash.c
+END
+m88e6060.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/funkwerk/vovpn-gw/m88e6060.c
+END

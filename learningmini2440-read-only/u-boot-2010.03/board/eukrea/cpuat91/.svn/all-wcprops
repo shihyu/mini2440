@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/eukrea/cpuat91
+END
+cpuat91.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/eukrea/cpuat91/cpuat91.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/eukrea/cpuat91/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/eukrea/cpuat91/Makefile
+END

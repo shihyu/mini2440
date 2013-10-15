@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/samsung/smdk6400
+END
+u-boot-nand.lds
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/samsung/smdk6400/u-boot-nand.lds
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/samsung/smdk6400/.gitignore
+END
+smdk6400.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/samsung/smdk6400/smdk6400.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/samsung/smdk6400/config.mk
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/samsung/smdk6400/lowlevel_init.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/samsung/smdk6400/Makefile
+END

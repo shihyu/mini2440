@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2
+END
+yaffs_ecc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_ecc.h
+END
+yaffs_tagscompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_tagscompat.c
+END
+yaffs_tagsvalidity.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_tagsvalidity.c
+END
+yaffs_nandemul2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_nandemul2k.h
+END
+yaffs_tagscompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_tagscompat.h
+END
+yaffs_qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_qsort.c
+END
+yaffsfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffsfs.c
+END
+yaffs_tagsvalidity.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_tagsvalidity.h
+END
+yaffs_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_malloc.h
+END
+yaffs_qsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_qsort.h
+END
+yaffsfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffsfs.h
+END
+yaffs_flashif.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_flashif.h
+END
+yaffs_checkptrw.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_checkptrw.c
+END
+yaffs_checkptrw.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_checkptrw.h
+END
+yaffs_ramdisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_ramdisk.h
+END
+yaffscfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffscfg.c
+END
+yportenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yportenv.h
+END
+yaffs_mtdif.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_mtdif.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/Makefile
+END
+yaffscfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffscfg.h
+END
+yaffsinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffsinterface.h
+END
+yaffs_mtdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_mtdif.h
+END
+yaffs_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_nand.c
+END
+README-linux
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/README-linux
+END
+yaffs_guts.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_guts.c
+END
+devextras.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/devextras.h
+END
+yaffs_mtdif2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_mtdif2.c
+END
+yaffs_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_nand.h
+END
+yaffs_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_guts.h
+END
+yaffs_packedtags1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_packedtags1.c
+END
+yaffs_packedtags2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_packedtags2.c
+END
+ydirectenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/ydirectenv.h
+END
+yaffs_mtdif2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_mtdif2.h
+END
+yaffs_ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_ecc.c
+END
+yaffs_packedtags1.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_packedtags1.h
+END
+yaffs_packedtags2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/yaffs2/yaffs_packedtags2.h
+END

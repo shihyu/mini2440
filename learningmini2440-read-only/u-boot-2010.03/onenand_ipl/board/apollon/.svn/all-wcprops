@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/onenand_ipl/board/apollon
+END
+apollon.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/onenand_ipl/board/apollon/apollon.c
+END
+u-boot.onenand.lds
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/onenand_ipl/board/apollon/u-boot.onenand.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/onenand_ipl/board/apollon/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/onenand_ipl/board/apollon/Makefile
+END

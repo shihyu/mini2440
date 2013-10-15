@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/u-boot-2010.03/tools/logos
+END
+denx.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/tools/logos/denx.bmp
+END
+linux_logo_ttcontrol_palfin.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/tools/logos/linux_logo_ttcontrol_palfin.bmp
+END
+atmel.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/tools/logos/atmel.bmp
+END
+linux_logo_ttcontrol.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/tools/logos/linux_logo_ttcontrol.bmp
+END
+ronetix.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/tools/logos/ronetix.bmp
+END
+esd.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/tools/logos/esd.bmp
+END

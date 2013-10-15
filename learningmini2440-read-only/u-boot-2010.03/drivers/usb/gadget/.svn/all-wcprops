@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/core.c
+END
+ep0.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/ep0.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/Makefile
+END
+omap1510_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/omap1510_udc.c
+END
+spr_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/spr_udc.c
+END
+mpc8xx_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/mpc8xx_udc.c
+END
+pxa27x_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/pxa27x_udc.c
+END
+ep0.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/usb/gadget/ep0.c
+END

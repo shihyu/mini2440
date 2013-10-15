@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx
+END
+sizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/sizes.h
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/i2c.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/mem.h
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/clocks.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/bits.h
+END
+sys_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/sys_proto.h
+END
+omap2420.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/omap2420.h
+END
+mux.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/mux.h
+END
+sys_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap24xx/sys_info.h
+END

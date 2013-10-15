@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/proc-armv
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/proc-armv/ptrace.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/proc-armv/processor.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/proc-armv/system.h
+END
+domain.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/proc-armv/domain.h
+END

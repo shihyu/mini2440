@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5208evbe
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5208evbe/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5208evbe/Makefile
+END
+m5208evbe.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5208evbe/m5208evbe.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/m5208evbe/u-boot.lds
+END

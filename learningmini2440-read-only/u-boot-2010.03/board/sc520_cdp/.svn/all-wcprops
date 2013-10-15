@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/u-boot.lds
+END
+sc520_cdp_asm16.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/sc520_cdp_asm16.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/config.mk
+END
+flash_old.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/flash_old.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/flash.c
+END
+sc520_cdp_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/sc520_cdp_pci.c
+END
+sc520_cdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/sc520_cdp.c
+END
+sc520_cdp_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/sc520_cdp/sc520_cdp_asm.S
+END

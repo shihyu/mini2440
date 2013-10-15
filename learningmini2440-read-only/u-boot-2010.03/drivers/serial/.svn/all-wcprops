@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial
+END
+serial_s3c24x0.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_s3c24x0.c
+END
+serial_ks8695.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_ks8695.c
+END
+serial_sh.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_sh.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial.c
+END
+serial_xuartlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_xuartlite.c
+END
+ns16550.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/ns16550.c
+END
+serial_netarm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_netarm.c
+END
+serial_mxc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_mxc.c
+END
+serial_pxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_pxa.c
+END
+serial_max3100.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_max3100.c
+END
+usbtty.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/usbtty.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/Makefile
+END
+usbtty.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/usbtty.h
+END
+serial_ixp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_ixp.c
+END
+s3c4510b_uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/s3c4510b_uart.c
+END
+mcfuart.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/mcfuart.c
+END
+serial_pl01x.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_pl01x.c
+END
+serial_sa1100.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_sa1100.c
+END
+s3c4510b_uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/s3c4510b_uart.h
+END
+at91rm9200_usart.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/at91rm9200_usart.c
+END
+serial_pl01x.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_pl01x.h
+END
+serial_s5pc1xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_s5pc1xx.c
+END
+serial_clps7111.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_clps7111.c
+END
+atmel_usart.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/atmel_usart.c
+END
+serial_s3c44b0.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_s3c44b0.c
+END
+s3c64xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/s3c64xx.c
+END
+atmel_usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/atmel_usart.h
+END
+serial_lh7a40x.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_lh7a40x.c
+END
+arm_dcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/arm_dcc.c
+END
+serial_lpc2292.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_lpc2292.c
+END
+serial_imx.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/serial_imx.c
+END
+ns9750_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/serial/ns9750_serial.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear
+END
+spr_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_i2c.h
+END
+spr_syscntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_syscntl.h
+END
+spr_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_nand.h
+END
+spr_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_defs.h
+END
+spr_xloader_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_xloader_table.h
+END
+spr_smi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_smi.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/hardware.h
+END
+spr_gpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_gpt.h
+END
+spr_emi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_emi.h
+END
+spr_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-spear/spr_misc.h
+END

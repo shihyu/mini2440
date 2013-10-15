@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include
+END
+x86emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/x86emu.h
+END
+biosemu.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/bios_emulator/include/biosemu.h
+END

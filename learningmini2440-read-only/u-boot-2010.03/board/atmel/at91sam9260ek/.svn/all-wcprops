@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9260ek
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9260ek/Makefile
+END
+at91sam9260ek.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9260ek/at91sam9260ek.c
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9260ek/led.c
+END
+partition.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9260ek/partition.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9260ek/config.mk
+END

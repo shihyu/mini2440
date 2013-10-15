@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/speed.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/timer.c
+END
+iomux.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/iomux.c
+END
+soc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/soc.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/u-boot.lds
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/clock.c
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/lowlevel_init.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/mx51/Makefile
+END

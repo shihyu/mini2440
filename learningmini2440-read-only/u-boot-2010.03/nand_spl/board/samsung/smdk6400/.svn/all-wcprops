@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/nand_spl/board/samsung/smdk6400
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/u-boot-2010.03/nand_spl/board/samsung/smdk6400/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/nand_spl/board/samsung/smdk6400/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/u-boot-2010.03/nand_spl/board/samsung/smdk6400/Makefile
+END

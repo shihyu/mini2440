@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0
+END
+s3c24x0.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0/s3c24x0.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0/memory.h
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0/mmc.h
+END
+s3c24x0_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0/s3c24x0_cpu.h
+END
+regs-sdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0/regs-sdi.h
+END
+s3c2400.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0/s3c2400.h
+END
+s3c2410.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-s3c24x0/s3c2410.h
+END

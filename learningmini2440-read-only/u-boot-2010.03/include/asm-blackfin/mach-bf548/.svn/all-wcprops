@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548
+END
+BF544_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF544_cdef.h
+END
+BF547_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF547_def.h
+END
+BF548_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF548_def.h
+END
+BF549_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF549_def.h
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/def_local.h
+END
+BF547_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF547_cdef.h
+END
+BF548_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF548_cdef.h
+END
+BF549_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF549_cdef.h
+END
+mem_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/mem_map.h
+END
+ADSP-EDN-BF542-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF542-extended_def.h
+END
+ADSP-EDN-BF544-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF544-extended_def.h
+END
+ADSP-EDN-BF542-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF542-extended_cdef.h
+END
+ADSP-EDN-BF544-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF544-extended_cdef.h
+END
+ADSP-EDN-BF547-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF547-extended_def.h
+END
+ADSP-EDN-BF548-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF548-extended_def.h
+END
+ADSP-EDN-BF549-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF549-extended_def.h
+END
+BF541_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF541_def.h
+END
+ADSP-EDN-BF547-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF547-extended_cdef.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/anomaly.h
+END
+ADSP-EDN-BF548-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF548-extended_cdef.h
+END
+BF542_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF542_def.h
+END
+ADSP-EDN-BF549-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/ADSP-EDN-BF549-extended_cdef.h
+END
+BF541_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF541_cdef.h
+END
+BF544_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF544_def.h
+END
+BF542_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf548/BF542_cdef.h
+END

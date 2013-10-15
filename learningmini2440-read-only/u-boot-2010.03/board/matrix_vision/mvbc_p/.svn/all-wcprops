@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p
+END
+fpga.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p/fpga.h
+END
+mvbc_p_autoscript
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p/mvbc_p_autoscript
+END
+mvbc_p.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p/mvbc_p.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p/config.mk
+END
+mvbc_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p/mvbc_p.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p/Makefile
+END
+fpga.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/matrix_vision/mvbc_p/fpga.c
+END

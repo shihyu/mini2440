@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vctv
+END
+reg_dcgu.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vctv/reg_dcgu.h
+END
+reg_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vctv/reg_gpio.h
+END
+reg_wdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vctv/reg_wdt.h
+END
+reg_ebi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vctv/reg_ebi.h
+END

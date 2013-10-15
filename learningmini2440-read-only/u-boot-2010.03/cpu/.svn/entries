@@ -1,0 +1,163 @@
+10
+
+dir
+6
+http://learningmini2440.googlecode.com/svn/trunk/u-boot-2010.03/cpu
+http://learningmini2440.googlecode.com/svn
+
+
+
+2010-10-07T07:37:33.652448Z
+3
+polygalaceae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8aa33bc-da8b-e864-c777-80dcce8ed24b
+
+mpc8260
+dir
+
+ixp
+dir
+
+arm925t
+dir
+
+mpc824x
+dir
+
+sa1100
+dir
+
+nios
+dir
+
+mips
+dir
+
+blackfin
+dir
+
+arm946es
+dir
+
+mpc83xx
+dir
+
+mpc85xx
+dir
+
+mpc86xx
+dir
+
+mpc8xxx
+dir
+
+74xx_7xx
+dir
+
+s3c44b0
+dir
+
+mpc5xx
+dir
+
+mcf523x
+dir
+
+mpc8xx
+dir
+
+lh7a40x
+dir
+
+i386
+dir
+
+nios2
+dir
+
+at32ap
+dir
+
+arm720t
+dir
+
+arm_cortexa8
+dir
+
+arm920t
+dir
+
+mpc512x
+dir
+
+arm_intcm
+dir
+
+mcf547x_8x
+dir
+
+mpc5xxx
+dir
+
+mcf5227x
+dir
+
+leon2
+dir
+
+mcf5445x
+dir
+
+leon3
+dir
+
+arm926ejs
+dir
+
+mcf52x2
+dir
+
+ppc4xx
+dir
+
+mcf532x
+dir
+
+microblaze
+dir
+
+pxa
+dir
+
+arm1136
+dir
+
+mpc8220
+dir
+
+sh2
+dir
+
+sh3
+dir
+
+sh4
+dir
+
+arm1176
+dir
+

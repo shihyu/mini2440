@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr
+END
+lc_common_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/lc_common_dimm_params.c
+END
+ddr1_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/ddr1_dimm_params.c
+END
+ddr2_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/ddr2_dimm_params.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/main.c
+END
+ctrl_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/ctrl_regs.c
+END
+ddr3_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/ddr3_dimm_params.c
+END
+common_timing_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/common_timing_params.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/options.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/Makefile
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/util.c
+END
+ddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/mpc8xxx/ddr/ddr.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-a320
+END
+ftpmu010.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-a320/ftpmu010.h
+END
+fttmr010.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-a320/fttmr010.h
+END
+ftsmc020.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-a320/ftsmc020.h
+END
+ftsdmc020.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-a320/ftsdmc020.h
+END
+a320.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-a320/a320.h
+END

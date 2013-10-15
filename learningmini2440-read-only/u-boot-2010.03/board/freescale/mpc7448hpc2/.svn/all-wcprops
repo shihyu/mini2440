@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/mpc7448hpc2
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/mpc7448hpc2/config.mk
+END
+tsi108_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/mpc7448hpc2/tsi108_init.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/mpc7448hpc2/Makefile
+END
+mpc7448hpc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/mpc7448hpc2/mpc7448hpc2.c
+END
+asm_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/mpc7448hpc2/asm_init.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/freescale/mpc7448hpc2/u-boot.lds
+END

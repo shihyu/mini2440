@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/yaffs2/direct
+END
+ydirectenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/yaffs2/direct/ydirectenv.h
+END
+yaffs_ramdisk.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_ramdisk.c
+END
+dtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/yaffs2/direct/dtest.c
+END
+yaffscfg2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffscfg2k.c
+END
+yaffs_fileem2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_fileem2k.c
+END
+yaffs_ramem2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_ramem2k.c
+END
+yaffs_norif1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_norif1.c
+END
+yaffs_nandif.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_nandif.c
+END
+yaffs_ramdisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_ramdisk.h
+END
+yaffscfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffscfg.c
+END
+yaffs_fileem.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_fileem.c
+END
+yaffs_fileem2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_fileem2k.h
+END
+yaffs_norif1.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_norif1.h
+END
+yaffs_flashif2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_flashif2.h
+END
+yaffs_nandif.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_nandif.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/yaffs2/direct/Makefile
+END
+yaffscfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffscfg.h
+END
+ynorsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/yaffs2/direct/ynorsim.c
+END
+yaffsfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffsfs.c
+END
+yaffs_flashif.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_flashif.c
+END
+yaffs_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_malloc.h
+END
+ynorsim.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/yaffs2/direct/ynorsim.h
+END
+yaffsfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffsfs.h
+END
+yaffs_flashif.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/yaffs2/direct/yaffs_flashif.h
+END

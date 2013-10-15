@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth
+END
+reg_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth/reg_gpio.h
+END
+reg_wdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth/reg_wdt.h
+END
+reg_ebi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth/reg_ebi.h
+END
+reg_fwsram.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth/reg_fwsram.h
+END
+reg_usbh.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth/reg_usbh.h
+END
+reg_dcgu.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth/reg_dcgu.h
+END
+reg_scc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/micronas/vct/vcth/reg_scc.h
+END

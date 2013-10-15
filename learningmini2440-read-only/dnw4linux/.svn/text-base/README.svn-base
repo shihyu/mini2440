@@ -1,0 +1,69 @@
+以下是Linux版本烧写flash芯片工具的制作方法。
+
+1. 下载Linux下DNW的PC端USB驱动和写入工具
+下载地址： http://arm9home.com/bbs/job.php?action=download&pid=tpc&tid=817&aid=86
+文件名: dnw_linux.zip
+
+2. 编译PC端USB驱动和写入工具
+2.1 解压缩
+$ tar xzvf /path/to/dnw_linux.tgz
+dnw_linux/
+dnw_linux/secbulk/
+dnw_linux/secbulk/Makefile
+dnw_linux/secbulk/secbulk.c
+dnw_linux/dnw/
+dnw_linux/dnw/dnw.c
+
+其中secbulk.c是PC端USB驱动, dnw.c是写入工具
+
+2.2 编译并加载secbulk.c内核模块
+$cd secbulk
+$make -C /lib/modules/`uname -r`/build M=`pwd` modules
+
+编译成功后在当前目录下可以看到secbulk.ko
+Makefile Module.symvers secbulk.c secbulk.ko secbulk.mod.c secbulk.mod.o secbulk.o
+
+用insmod命令加载模块，这需要root权限
+$sudo insmod ./secbulk.ko
+
+加载后用dmesg命令可以看到模块已经成功加载
+[ 238.007970] secbulk:secbulk loaded
+[ 238.009101] usbcore: registered new interface driver secbulk
+
+2.3 编译dnw写入工具
+$cd dnw
+$gcc -o dnw dnw.c
+编译成功后生成可执行档dnw（这一步在虚拟机下编译时出现了许多警告）
+
+3 使用DNW下载
+3.1 启动开发板，进入Supervivi，并将开发板和PC用USB电缆连接，此时用dmesg命令可以看到secbulk驱动加载：
+[ 283.677772] usb 1-1: new full speed USB device using uhci_hcd and address 2
+[ 284.084835] usb 1-1: configuration #1 chosen from 1 choice
+[ 284.140430] secbulk:secbulk probing...
+[ 284.140482] secbulk:bulk out endpoint found!
+
+3.2 此时可以用supervivi进行USB下载，vivi上步骤请参考用户手册，当出现“USB host is connected. Waiting a download.”时，在PC端Linux上用dnw工具写入要下载的文件
+$sudo ./dnw uboot.bin
+
+写入完成后提示成功
+100% xxxxxxx bytes OK
+
+4 使用u-boot传输文件
+4.1 接下来你可以启动mini2440（已经烧写好支持dnw的u-boot），进入u-boot。
+在mini2440中输入下载启动命令:
+usbslave 1  30008000
+
+如果一切顺利，mini2440的串口中会显示：
+[u-boot@MINI2440]# usbslave 1 30008000
+USB host is connected. Waiting a download.
+
+usbslave - usbslave - get file from host(PC)
+
+4.2 在PC端Linux上用dnw工具写入要下载的文件
+$sudo ./dnw zImage
+
+Usage:
+usbslave [wait] [loadAddress]
+"wait" is 0 or 1, 0 means for return immediately, not waits for the finish of transferring
+
+

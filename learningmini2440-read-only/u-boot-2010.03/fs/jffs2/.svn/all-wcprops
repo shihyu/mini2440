@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2
+END
+compr_lzo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/compr_lzo.c
+END
+jffs2_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/jffs2_private.h
+END
+jffs2_nand_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/jffs2_nand_private.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/Makefile
+END
+mini_inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/mini_inflate.c
+END
+compr_rubin.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/compr_rubin.c
+END
+compr_zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/compr_zlib.c
+END
+compr_rtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/compr_rtime.c
+END
+jffs2_nand_1pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/jffs2_nand_1pass.c
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/LICENCE
+END
+jffs2_1pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/jffs2_1pass.c
+END
+summary.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/u-boot-2010.03/fs/jffs2/summary.h
+END

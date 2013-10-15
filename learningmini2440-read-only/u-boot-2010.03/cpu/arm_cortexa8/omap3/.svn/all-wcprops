@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/mem.c
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/gpio.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/timer.c
+END
+reset.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/reset.S
+END
+cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/cache.S
+END
+syslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/syslib.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/board.c
+END
+sys_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/sys_info.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/clock.c
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/lowlevel_init.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/omap3/Makefile
+END

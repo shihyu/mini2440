@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537
+END
+BF537_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/BF537_def.h
+END
+BF534_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/BF534_cdef.h
+END
+BF536_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/BF536_cdef.h
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/ports.h
+END
+BF537_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/BF537_cdef.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/def_local.h
+END
+ADSP-EDN-BF534-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/ADSP-EDN-BF534-extended_def.h
+END
+ADSP-EDN-BF534-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/ADSP-EDN-BF534-extended_cdef.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/anomaly.h
+END
+BF534_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/BF534_def.h
+END
+BF536_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf537/BF536_def.h
+END

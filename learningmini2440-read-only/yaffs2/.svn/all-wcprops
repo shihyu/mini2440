@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/4/trunk/yaffs2
+END
+yaffs_packedtags1.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_packedtags1.c
+END
+yaffs_packedtags2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_packedtags2.c
+END
+yaffs_ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_ecc.c
+END
+yaffs_packedtags1.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_packedtags1.h
+END
+yaffs_packedtags2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_packedtags2.h
+END
+yaffs_ecc.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_ecc.h
+END
+yportenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/yaffs2/yportenv.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/yaffs2/Makefile
+END
+yaffsinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/yaffs2/yaffsinterface.h
+END
+yaffs_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_fs.c
+END
+yaffs_qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_qsort.c
+END
+yaffs_getblockinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_getblockinfo.h
+END
+yaffs_qsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_qsort.h
+END
+yaffs_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_nand.c
+END
+README-linux
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/yaffs2/README-linux
+END
+yaffs_guts.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_guts.c
+END
+yaffs_mtdif1.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_mtdif1.c
+END
+yaffs_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_nand.h
+END
+yaffs_mtdif2.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_mtdif2.c
+END
+yaffs_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_guts.h
+END
+moduleconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/yaffs2/moduleconfig.h
+END
+yaffs_mtdif1.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_mtdif1.h
+END
+yaffs_mtdif2.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_mtdif2.h
+END
+yaffs_checkptrw.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_checkptrw.c
+END
+yaffs_checkptrw.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_checkptrw.h
+END
+yaffs_tagscompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_tagscompat.c
+END
+yaffs_mtdif.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_mtdif.c
+END
+yaffs_trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_trace.h
+END
+yaffs_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_linux.h
+END
+yaffs_tagsvalidity.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_tagsvalidity.c
+END
+yaffs_nandemul2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_nandemul2k.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/yaffs2/Kconfig
+END
+yaffs_tagscompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_tagscompat.h
+END
+yaffs_mtdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_mtdif.h
+END
+yaffs_tagsvalidity.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/yaffs2/yaffs_tagsvalidity.h
+END
+README-linux-patch
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/yaffs2/README-linux-patch
+END
+patch-ker.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/yaffs2/patch-ker.sh
+END
+devextras.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/yaffs2/devextras.h
+END
+Makefile.kernel
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/yaffs2/Makefile.kernel
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/s5pc1xx
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/s5pc1xx/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/s5pc1xx/Makefile
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/s5pc1xx/timer.c
+END
+cpu_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/s5pc1xx/cpu_info.c
+END
+reset.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/s5pc1xx/reset.S
+END
+cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/cpu/arm_cortexa8/s5pc1xx/cache.S
+END

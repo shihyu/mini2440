@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/yaffs2/patches
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/yaffs2/patches/README.txt
+END
+yaffs_mtdif2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/yaffs2/patches/yaffs_mtdif2.c
+END

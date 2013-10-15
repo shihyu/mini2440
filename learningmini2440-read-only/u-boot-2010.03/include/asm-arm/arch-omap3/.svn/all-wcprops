@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/mem.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/gpio.h
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/clocks.h
+END
+omap3.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/omap3.h
+END
+sys_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/sys_proto.h
+END
+omap_gpmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/omap_gpmc.h
+END
+mmc_host_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/mmc_host_def.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/cpu.h
+END
+mux.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/mux.h
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/mmc.h
+END
+clocks_omap3.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/clocks_omap3.h
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-omap3/i2c.h
+END

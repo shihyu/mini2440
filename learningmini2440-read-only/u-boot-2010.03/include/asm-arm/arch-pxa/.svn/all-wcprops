@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-pxa
+END
+bitfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-pxa/bitfield.h
+END
+pxa-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-pxa/pxa-regs.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-pxa/hardware.h
+END

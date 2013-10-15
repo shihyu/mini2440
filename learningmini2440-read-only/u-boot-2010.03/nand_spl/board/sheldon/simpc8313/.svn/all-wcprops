@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/u-boot-2010.03/nand_spl/board/sheldon/simpc8313
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/nand_spl/board/sheldon/simpc8313/Makefile
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/nand_spl/board/sheldon/simpc8313/u-boot.lds
+END

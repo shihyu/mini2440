@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/u-boot-2010.03
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/u-boot-2010.03/rules.mk
+END
+MAKEALL
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/u-boot-2010.03/MAKEALL
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/u-boot-2010.03/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/u-boot-2010.03/COPYING
+END
+CHANGELOG-before-U-Boot-1.1.5
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/CHANGELOG-before-U-Boot-1.1.5
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/u-boot-2010.03/MAINTAINERS
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/u-boot-2010.03/config.mk
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/u-boot-2010.03/CREDITS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/u-boot-2010.03/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/u-boot-2010.03/README
+END
+mkconfig
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/u-boot-2010.03/mkconfig
+END

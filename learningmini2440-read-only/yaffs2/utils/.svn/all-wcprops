@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/yaffs2/utils
+END
+nand_ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/yaffs2/utils/nand_ecc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/yaffs2/utils/Makefile
+END
+mkyaffsimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/yaffs2/utils/mkyaffsimage.c
+END
+mkyaffs2image.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/yaffs2/utils/mkyaffs2image.c
+END

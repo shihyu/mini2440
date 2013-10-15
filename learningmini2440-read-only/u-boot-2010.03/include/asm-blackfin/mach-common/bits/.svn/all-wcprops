@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits
+END
+bootrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/bootrom.h
+END
+ports-a.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-a.h
+END
+ports-b.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-b.h
+END
+ports-c.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-c.h
+END
+pll.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/pll.h
+END
+ports-d.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-d.h
+END
+rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/rtc.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/core.h
+END
+ppi.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ppi.h
+END
+ports-e.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-e.h
+END
+ports-f.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-f.h
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/spi.h
+END
+ports-g.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-g.h
+END
+ports-h.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-h.h
+END
+ports-i.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-i.h
+END
+eppi.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/eppi.h
+END
+ports-j.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ports-j.h
+END
+watchdog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/watchdog.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/dma.h
+END
+mpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/mpu.h
+END
+lockbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/lockbox.h
+END
+otp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/otp.h
+END
+emac.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/emac.h
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/uart.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/timer.h
+END
+ebiu.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/ebiu.h
+END
+pata.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/pata.h
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/usb.h
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/trace.h
+END
+twi.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/twi.h
+END
+sport.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/sport.h
+END
+sdh.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-common/bits/sdh.h
+END

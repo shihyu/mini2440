@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT
+END
+command_syntax_extensions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/command_syntax_extensions.txt
+END
+update3.its
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/update3.its
+END
+source_file_format.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/source_file_format.txt
+END
+update_uboot.its
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/update_uboot.its
+END
+multi.its
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/multi.its
+END
+kernel_fdt.its
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/kernel_fdt.its
+END
+howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/howto.txt
+END
+kernel.its
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/doc/uImage.FIT/kernel.its
+END

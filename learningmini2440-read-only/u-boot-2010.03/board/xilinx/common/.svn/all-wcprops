@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common
+END
+xipif_v1_23_b.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xipif_v1_23_b.h
+END
+xbasic_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xbasic_types.h
+END
+xio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xio.h
+END
+xbuf_descriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xbuf_descriptor.h
+END
+xpacket_fifo_v1_00_b.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xpacket_fifo_v1_00_b.c
+END
+xdma_channel_sg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xdma_channel_sg.c
+END
+xversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xversion.c
+END
+xpacket_fifo_v1_00_b.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xpacket_fifo_v1_00_b.h
+END
+xstatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xstatus.h
+END
+xdma_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xdma_channel.c
+END
+xversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xversion.h
+END
+xdma_channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xdma_channel.h
+END
+xipif_v1_23_b.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xipif_v1_23_b.c
+END
+xbasic_types.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xbasic_types.c
+END
+xdma_channel_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/xilinx/common/xdma_channel_i.h
+END

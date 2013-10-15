@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527
+END
+BF522_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF522_def.h
+END
+ADSP-EDN-BF52x-extended_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/ADSP-EDN-BF52x-extended_cdef.h
+END
+BF523_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF523_def.h
+END
+BF524_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF524_def.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/anomaly.h
+END
+BF525_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF525_def.h
+END
+BF522_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF522_cdef.h
+END
+BF523_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF523_cdef.h
+END
+BF526_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF526_def.h
+END
+BF524_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF524_cdef.h
+END
+BF527_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF527_def.h
+END
+BF525_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF525_cdef.h
+END
+BF526_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF526_cdef.h
+END
+BF527_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/BF527_cdef.h
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/def_local.h
+END
+mem_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/mem_map.h
+END
+ADSP-EDN-BF52x-extended_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-blackfin/mach-bf527/ADSP-EDN-BF52x-extended_def.h
+END

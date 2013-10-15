@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia
+END
+ti_pci1410a.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/ti_pci1410a.c
+END
+i82365.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/i82365.c
+END
+mpc8xx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/mpc8xx_pcmcia.c
+END
+pxa_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/pxa_pcmcia.c
+END
+tqm8xx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/tqm8xx_pcmcia.c
+END
+marubun_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/marubun_pcmcia.c
+END
+rpx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/rpx_pcmcia.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/u-boot-2010.03/drivers/pcmcia/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9m10g45ek
+END
+at91sam9m10g45ek.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9m10g45ek/at91sam9m10g45ek.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9m10g45ek/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9m10g45ek/Makefile
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/board/atmel/at91sam9m10g45ek/led.c
+END

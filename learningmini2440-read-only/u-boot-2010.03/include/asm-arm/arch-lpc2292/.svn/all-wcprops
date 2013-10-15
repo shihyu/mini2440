@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-lpc2292
+END
+lpc2292_registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-lpc2292/lpc2292_registers.h
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-lpc2292/spi.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/u-boot-2010.03/include/asm-arm/arch-lpc2292/hardware.h
+END
