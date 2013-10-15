@@ -1,6 +1,9 @@
 mini2440
 ========
+
+
 1. 先到網上搜索一下dnw for linux。下載回來解壓。
+
 目錄如下：
 dnw_linux/ 
 dnw_linux/secbulk/ 
@@ -10,7 +13,7 @@ dnw_linux/dnw/
 dnw_linux/dnw/dnw.c 
 其中secbulk.c是PC端USB驅動, dnw.c是寫入工具
 
-2編譯並加載secbulk.c內核模塊
+2. 編譯並加載secbulk.c內核模塊
 $cd secbulk 
 $make -C /lib/modules/`uname -r`/build M=`pwd` modules 
 
