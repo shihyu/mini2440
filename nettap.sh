@@ -1,6 +1,1 @@
-tunctl -u shihyu -t tap0 
-ifconfig tap0 192.168.100.1 up 
-echo 1 > /proc/sys/net/ipv4/ip_forward
-iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
-iptables -I FORWARD 1 -i tap0 -j ACCEPT
-iptables -I FORWARD 1 -o tap0 -m state --state RELATED,ESTABLISHED -j ACCEPT
+sudo ifconfig eth2 192.168.1.88 netmask 255.255.255.0 up
