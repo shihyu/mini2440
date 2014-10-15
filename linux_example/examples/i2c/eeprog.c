@@ -5,6 +5,13 @@
 
  ***************************************************************************/
 
+
+/*  串口终端中执行命令i2c –w 可以向板子的24C08 器件中写入数据（0x00-0xff）
+ *  
+ * i2c –r 可以从板子的24C08 器件中读出输出
+ *
+ */
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <getopt.h>
@@ -84,8 +91,8 @@ int main(int argc, char** argv)
 	usage_if(argc != 2 || argv[1][0] != '-' || argv[1][2] != '\0');
 	op = argv[1][1];
 
-	fprintf(stderr, "Open /dev/i2c/0 with 8bit mode\n");
-	die_if(eeprom_open("/dev/i2c/0", 0x50, EEPROM_TYPE_8BIT_ADDR, &e) < 0, 
+	fprintf(stderr, "Open /dev/i2c-0 with 8bit mode\n");
+	die_if(eeprom_open("/dev/i2c-0", 0x50, EEPROM_TYPE_8BIT_ADDR, &e) < 0, 
 			"unable to open eeprom device file "
 			"(check that the file exists and that it's readable)");
 	switch(op)
