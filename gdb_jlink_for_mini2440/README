@@ -1,0 +1,15 @@
+在mini2440上調試Linux Kernel 2.6.32
+
+通過Jlink在mini2440開發板上調試內核
+1在window上 安裝JlinkARM工具Setup_JLinkARM_V408k.
+2 mini2440 flash開關打到Nor一側後上電。
+3 打開串口和usb下載工具，在串口中輸入k，然後通過usb輔助工具(win7)SuperVivi-USB-Transfer-Tool.exe下載內核(注意編譯內核要make CROSS_COMPILE=... menuconfig
+->Kernel hacking -> Compile the kernel with debug info)
+4 編譯安裝arm-linux-gdb，然後啟動J-link GDB Server,選擇Initial JTAG Speed 為Auto，Endian選擇Little Endian
+5 在windows上通過vmplayer安裝ubuntu，然後編譯安裝arm-linux-gdb，
+然後在linux-2.6.32根目錄下依次運行arm-linux-gdb
+target remote 宿主機ip:2331
+file vmlinux
+b start_kernel
+c
+6 然後在串口中輸入b啟動系統內核，會發現內核會在設定的斷點處停下，就可以自由調試了。
