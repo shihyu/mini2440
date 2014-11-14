@@ -1,3 +1,13 @@
+需要編譯 gdb  
+
+1. tar xvf gdb-7.8.1.tar.gz
+2. cd gdb-7.8.1
+3. ./configure --target=arm-linux --prefix=/home/shihyu/data/arm-gdb/arm-gdb
+4 make -j8
+5. make install
+
+
+
 在mini2440上調試Linux Kernel 2.6.32
 
 通過Jlink在mini2440開發板上調試內核
@@ -8,7 +18,10 @@
 4 編譯安裝arm-linux-gdb，然後啟動J-link GDB Server,選擇Initial JTAG Speed 為Auto，Endian選擇Little Endian
 5 在windows上通過vmplayer安裝ubuntu，然後編譯安裝arm-linux-gdb，
 然後在linux-2.6.32根目錄下依次運行arm-linux-gdb
-target remote 宿主機ip:2331
+
+/home/shihyu/data/arm-gdb/arm-gdb/bin/arm-linux-gdb
+
+target remote 宿主機ip:2331   // target remote :2331 即可
 file vmlinux
 b start_kernel
 c
